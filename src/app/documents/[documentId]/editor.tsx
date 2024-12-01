@@ -10,6 +10,7 @@ import TableRow from "@tiptap/extension-table-row";
 import Dropcursor from "@tiptap/extension-dropcursor";
 import Image from "@tiptap/extension-image";
 import ImageResize from "tiptap-extension-resize-image";
+import Underline from "@tiptap/extension-underline";
 
 import { useEditorStore } from "@/store/use-editor-store";
 
@@ -61,6 +62,7 @@ export const Editor = () => {
       Image,
       ImageResize,
       Dropcursor,
+      Underline,
     ],
     content: `
         <table>
