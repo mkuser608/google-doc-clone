@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Google Docs Clone – Real-Time Collaborative Document Editing
 
-## Getting Started
+Welcome to the **Google Docs Clone**, a fully functional, feature-rich document editor inspired by Google Docs. This project is built using the latest web technologies, including React 19, to provide a seamless, real-time document editing experience for multiple users. Whether you're working individually or collaborating as a team, this app offers all the essential features to boost your productivity.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Key Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Real-Time Collaboration**: Edit documents with multiple users simultaneously. Changes are updated live for everyone.
+- **Live Commenting**: Add, view, and resolve comments instantly for effective communication.
+- **Intuitive Rich Text Editor**: Built with Tiptap 2.10.2, offering advanced text formatting and editing capabilities.
+- **Sleek and Modern UI**: Designed with ShadCN components for a clean and user-friendly interface.
+- **Organization-Centric Architecture**: Scalable and maintainable codebase structure to support enterprise-level use cases.
+- **Multiple Modes and Functionalities**: Includes document-sharing, version control, and other features inspired by Google Docs.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 💻 Tech Stack
 
-## Learn More
+This project leverages the power of cutting-edge technologies to deliver an exceptional experience:
 
-To learn more about Next.js, take a look at the following resources:
+- **Node.js**: Version 20.0.9 for a robust and scalable backend.
+- **React**: Version 19 for building a dynamic and responsive front end.
+- **Next.js**: Version 15.0.2 to ensure a fast and SEO-friendly React-based front end.
+- **Tiptap**: Version 2.10.2, an extensible rich text editor framework.
+- **ShadCN**: For a polished and accessible component library.
+- Additional libraries and tools to enhance real-time functionality, performance, and responsiveness.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Inspiration and Guidance
 
-## Deploy on Vercel
+This project was inspired and guided by concepts and tutorials from **Code with Antonio**, ensuring best practices and efficient coding standards.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠️ Getting Started
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Follow these steps to set up the project locally:
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/mkuser608/google-doc-clone.git
+   ```
