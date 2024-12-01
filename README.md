@@ -11,7 +11,7 @@ Welcome to the **Google Docs Clone**, a fully functional, feature-rich document 
 - **Intuitive Rich Text Editor**: Built with Tiptap 2.10.2, offering advanced text formatting and editing capabilities.
 - **Sleek and Modern UI**: Designed with ShadCN components for a clean and user-friendly interface.
 - **Organization-Centric Architecture**: Scalable and maintainable codebase structure to support enterprise-level use cases.
-- **Multiple Modes and Functionalities**: Includes document-sharing, version control, and other features inspired by Google Docs.
+- **Multiple Modes and Functionalities**: Includes document-sharing, version control, and other features inspired by Google Docs & Code with Antonio.
 
 ---
 
@@ -27,10 +27,6 @@ This project leverages the power of cutting-edge technologies to deliver an exce
 - Additional libraries and tools to enhance real-time functionality, performance, and responsiveness.
 
 ---
-
-## Inspiration and Guidance
-
-This project was inspired and guided by concepts and tutorials from **Code with Antonio**, ensuring best practices and efficient coding standards.
 
 ## 🛠️ Getting Started
 
