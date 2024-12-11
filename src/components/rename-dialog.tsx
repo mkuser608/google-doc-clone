@@ -2,8 +2,6 @@
 
 import {
   Dialog,
-  DialogAction,
-  DialogCancel,
   DialogContent,
   DialogDescription,
   DialogFooter,

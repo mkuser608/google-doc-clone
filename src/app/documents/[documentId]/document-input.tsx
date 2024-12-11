@@ -1,6 +1,6 @@
 import { BsCloudCheck, BsCloudSlash } from "react-icons/bs";
 import { Id } from "../../../../convex/_generated/dataModel";
-import { useEffect, useRef, useState } from "react";
+import { useRef, useState } from "react";
 import { useMutation } from "convex/react";
 import { api } from "../../../../convex/_generated/api";
 import { useDebounce } from "@/hooks/use-debounce";

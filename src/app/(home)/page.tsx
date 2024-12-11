@@ -1,5 +1,5 @@
 "use client";
-import { usePaginatedQuery, useQuery } from "convex/react";
+import { usePaginatedQuery } from "convex/react";
 import { Navbar } from "./navbar";
 import { TemplatesGallery } from "./templates-gallery";
 import { api } from "../../../convex/_generated/api";
